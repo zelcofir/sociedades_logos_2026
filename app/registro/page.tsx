@@ -31,7 +31,7 @@ export default function RegistroPage() {
             className="bg-white rounded-xl shadow-lg overflow-hidden mb-8"
           >
             <iframe
-              src="https://script.google.com/macros/s/AKfycbz0uMhEph0EFV1lQaDryPXDhM0WE62SXJNWNcL5u5Pq3V4SX2d8gjDXMg45H0VW7BQ7/exec"
+              src="https://script.google.com/macros/s/AKfycbw3Sh8TctcKt9-uOdxSg8Ql9hUVbMRqya3jzTrcwlk9dLyks9Q75jq6G2wUzM4NtVou/exec"
               className="w-full min-h-[800px] border-0"
               title="Formulario de Registro RECI"
               loading="lazy"

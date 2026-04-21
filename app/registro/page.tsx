@@ -32,7 +32,7 @@ export default function RegistroPage() {
           >
             <iframe
               src="https://script.google.com/macros/s/AKfycbw3Sh8TctcKt9-uOdxSg8Ql9hUVbMRqya3jzTrcwlk9dLyks9Q75jq6G2wUzM4NtVou/exec"
-              className="w-full min-h-[800px] border-0"
+              className="w-full min-h-[2000px] border-0"
               title="Formulario de Registro RECI"
               loading="lazy"
             />

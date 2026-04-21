@@ -67,11 +67,13 @@ export default function SociedadesPage() {
             className="text-center mb-12"
           >
             <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-              Sociedades Científicas
+              Registro de producción científica local
             </h1>
+            <h2 className="text-xl md:text-2xl font-semibold text-primary mb-4">
+              Memoria de la producción científica CPPC
+            </h2>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-              Accede a las carpetas de investigación de cada sociedad científica
-              de estudiantes de medicina.
+              Un repositorio centralizado que salvaguarda cada aporte científico de las sociedades locales.
             </p>
           </motion.div>
 

@@ -46,7 +46,7 @@ export function SocietyCard({ name, driveId, logo, index }: SocietyCardProps) {
         className="inline-flex items-center justify-center gap-2 px-4 py-2 bg-primary text-white text-sm font-medium rounded-lg hover:bg-primary-dark transition-colors w-full"
       >
         <FolderOpen className="w-4 h-4" />
-        Carpeta de Investigación
+        Ver registro
       </a>
     </motion.div>
   );

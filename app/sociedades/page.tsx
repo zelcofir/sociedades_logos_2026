@@ -52,8 +52,6 @@ const societies = {
     { name: "CIESMED", driveId: "1QamySFhlR2eAhc4GfnDM1ooxMLTa-0dw", logo: "/logos/38.png" },
     { name: "SOCIEMA", driveId: "11ie_z_jFasZpZD7-HQSs6g5fHstWkrj", logo: "/logos/39.png" },
     { name: "SOCIEM-UNA PUNO", driveId: "1ffz4Am-IH8l-sBbWdy_hPyfxFBSJErvh", logo: "/logos/40.png" },
-    { name: "SOCEMSA", driveId: "10w1ZwDGbQDVFjobMTogliM71-hiSamQR", logo: "/logos/41.png" },
-    { name: "SOCIEMDAC", driveId: "1C8oboQl5cqgA-XjyYblQt8H7xTzNmesl", logo: "/logos/q.png" },
   ],
 };
 
